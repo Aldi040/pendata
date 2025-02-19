@@ -34,8 +34,8 @@ Kami terbuka untuk kontribusi dari siapa saja! Jika Anda menemukan bug atau memi
 
 ## 📩 Kontak & Dukungan
 Jika ada pertanyaan atau saran, jangan ragu untuk menghubungi:
-📧 Email: [email@example.com](mailto:email@example.com)  
-🐦 Twitter: [@aldi040](https://twitter.com/aldi040)  
+📧 Email: [aldirahmandika2@gmail.com](mailto:aldirahmandika2@gmail.com)  
+
 
 Jangan lupa ⭐ repo ini jika menurut Anda bermanfaat! 😊
 
